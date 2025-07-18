@@ -16,10 +16,10 @@ module.exports = {
         ? process.env.PREFIX.split(',').map(p => p.trim())
         : [''],
 
-    NUMBER: process.env.YOUR_NUMBER || '254742063632',
-    MODE: (process.env.MODE || 'private').toLowerCase().trim(),
+    NUMBER: process.env.YOUR_NUMBER || '971554400658',
+    MODE: (process.env.MODE || 'public').toLowerCase().trim(),
     WARN_LIMIT: process.env.WARNINGS || '3',
-    ON: process.env.YOUR_NAME || 'FLASH-MD',
+    ON: process.env.YOUR_NAME || '𝐕𝐢𝐩-𝐃𝐚𝐫𝐤-𝐇𝐚𝐜𝐤𝐞𝐫',
     ANTICALL: process.env.ANTICALL || 'on',
     ADM: process.env.ANTIDELETE || 'on',
     AR: process.env.AUTO_REACTION || 'off',
